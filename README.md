@@ -1,4 +1,3 @@
-nextsteps-sailsjs
-=================
+# nextsteps-sailsjs
 
-Our server side implementation of NextSteps using SailsJS.
+a [Sails](http://sailsjs.org) application
